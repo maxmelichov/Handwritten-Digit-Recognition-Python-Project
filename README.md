@@ -1,7 +1,7 @@
 # Handwritten-Digit-Recognition-Python-Project
 
 # if you want to try ML.ipynb you need it to be in another folder 
-code file is the painter it self and you can try the program 
+The code file is the painter it self and you can try the program 
 
 The CNN predict works about 90% of the time and the ANN predict works 50-70% 
 
